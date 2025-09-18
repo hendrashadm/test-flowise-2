@@ -1,19 +1,15 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise Components
+# AI Agent Builder Components
 
-English | [中文](./README-ZH.md)
-
-Apps integration for Flowise. Contain Nodes and Credentials.
-
-![Flowise](https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_agentflow.gif?raw=true)
+Apps integration for AI Agent Builder. Contains Nodes and Credentials.
 
 Install:
 
 ```bash
-npm i flowise-components
+npm i ai-agent-components
 ```
 
 ## License
 
-Source code in this repository is made available under the [Apache License Version 2.0](https://github.com/FlowiseAI/Flowise/blob/master/LICENSE.md).
+Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).

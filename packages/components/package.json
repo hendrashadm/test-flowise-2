@@ -1,7 +1,7 @@
 {
-    "name": "flowise-components",
+    "name": "ai-agent-components",
     "version": "3.0.7",
-    "description": "Flowiseai Components",
+    "description": "AI Agent Builder Components",
     "main": "dist/src/index",
     "types": "dist/src/index.d.ts",
     "scripts": {
@@ -14,11 +14,6 @@
         "test:coverage": "jest --coverage"
     },
     "keywords": [],
-    "homepage": "https://flowiseai.com",
-    "author": {
-        "name": "Henry Heng",
-        "email": "henryheng@flowiseai.com"
-    },
     "license": "SEE LICENSE IN LICENSE.md",
     "dependencies": {
         "@apidevtools/json-schema-ref-parser": "^11.7.0",

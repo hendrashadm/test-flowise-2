@@ -1,8 +1,7 @@
 {
-    "name": "flowise",
+    "name": "ai-agent-builder",
     "version": "3.0.7",
     "private": true,
-    "homepage": "https://flowiseai.com",
     "workspaces": [
         "packages/*",
         "flowise",

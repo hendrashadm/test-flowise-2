@@ -1,12 +1,7 @@
 {
-    "name": "flowise-ui",
+    "name": "ai-agent-ui",
     "version": "3.0.7",
     "license": "SEE LICENSE IN LICENSE.md",
-    "homepage": "https://flowiseai.com",
-    "author": {
-        "name": "HenryHeng",
-        "email": "henryheng@flowiseai.com"
-    },
     "dependencies": {
         "@codemirror/lang-javascript": "^6.2.1",
         "@codemirror/lang-json": "^6.0.1",
