@@ -12,8 +12,6 @@ A visual tool for building AI agents and workflows.
 -   [🌱 Env Variables](#-env-variables)
 -   [📖 Documentation](#-documentation)
 -   [🌐 Self Host](#-self-host)
--   [🙋 Support](#-support)
--   [📄 License](#-license)
 
 ## ⚡Quick Start
 
@@ -192,11 +190,3 @@ Deploy the application self-hosted in your existing infrastructure. Various depl
         [![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploy.png)](https://repocloud.io/details/?app_id=29)
 
       </details>
-
-## 🙋 Support
-
-Feel free to ask any questions, raise problems, and request new features in the project's discussion section.
-
-## 📄 License
-
-Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
